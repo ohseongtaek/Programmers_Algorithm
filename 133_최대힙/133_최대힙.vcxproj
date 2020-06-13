@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{96FBD7BC-C5C8-444B-B0AF-D2C4653A047D}</ProjectGuid>
-    <RootNamespace>My016크로아티아알파벳</RootNamespace>
+    <ProjectGuid>{0BD520D7-98CC-4DF0-BAB1-44AEF7FE19A2}</ProjectGuid>
+    <RootNamespace>My133최대힙</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
