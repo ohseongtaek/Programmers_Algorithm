@@ -411,6 +411,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "202_튜플", "202_튜플\20
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "203_올바른괄호", "203_올바른괄호\203_올바른괄호.vcxproj", "{BE087454-DF1F-454A-BDF7-73AB988C9F08}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "204_다음큰숫자", "204_다음큰숫자\204_다음큰숫자.vcxproj", "{B0701667-470C-48BF-BECB-C4ECA9A80094}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2051,6 +2053,14 @@ Global
 		{BE087454-DF1F-454A-BDF7-73AB988C9F08}.Release|x64.Build.0 = Release|x64
 		{BE087454-DF1F-454A-BDF7-73AB988C9F08}.Release|x86.ActiveCfg = Release|Win32
 		{BE087454-DF1F-454A-BDF7-73AB988C9F08}.Release|x86.Build.0 = Release|Win32
+		{B0701667-470C-48BF-BECB-C4ECA9A80094}.Debug|x64.ActiveCfg = Debug|x64
+		{B0701667-470C-48BF-BECB-C4ECA9A80094}.Debug|x64.Build.0 = Debug|x64
+		{B0701667-470C-48BF-BECB-C4ECA9A80094}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0701667-470C-48BF-BECB-C4ECA9A80094}.Debug|x86.Build.0 = Debug|Win32
+		{B0701667-470C-48BF-BECB-C4ECA9A80094}.Release|x64.ActiveCfg = Release|x64
+		{B0701667-470C-48BF-BECB-C4ECA9A80094}.Release|x64.Build.0 = Release|x64
+		{B0701667-470C-48BF-BECB-C4ECA9A80094}.Release|x86.ActiveCfg = Release|Win32
+		{B0701667-470C-48BF-BECB-C4ECA9A80094}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
