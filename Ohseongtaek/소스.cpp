@@ -1,18 +1,14 @@
 #include <iostream>
-#include<vector>
+#include <vector>
 
 using namespace std;
 
-//#define a1 b - 45;
 
 int main()
 {
-    int n, m;
-    vector<vector<int>> puddles;
-    puddles[0][1] = 2;
-    puddles[0][0] = 2;
-        cout << puddles.size();
-
-
+    cout << "개발자 오성택의 GitHub 입니다.";
+    cout << endl;
+    cout << "또한 이 소스코드는 테스트 용 소스코드를 control 합니다.";
+        
     return 0;
 }
