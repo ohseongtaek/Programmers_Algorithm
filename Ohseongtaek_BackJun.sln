@@ -435,6 +435,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "214_N개의최소공배수"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "215_짝지어제거하기", "215_짝지어제거하기\215_짝지어제거하기.vcxproj", "{A38FE382-32E0-4FA6-98ED-3BC9BC64C17A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "216_소수만들기", "216_소수만들기\216_소수만들기.vcxproj", "{D4BE44F5-367A-405B-BBDF-3DE216D2D0EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2171,6 +2173,14 @@ Global
 		{A38FE382-32E0-4FA6-98ED-3BC9BC64C17A}.Release|x64.Build.0 = Release|x64
 		{A38FE382-32E0-4FA6-98ED-3BC9BC64C17A}.Release|x86.ActiveCfg = Release|Win32
 		{A38FE382-32E0-4FA6-98ED-3BC9BC64C17A}.Release|x86.Build.0 = Release|Win32
+		{D4BE44F5-367A-405B-BBDF-3DE216D2D0EE}.Debug|x64.ActiveCfg = Debug|x64
+		{D4BE44F5-367A-405B-BBDF-3DE216D2D0EE}.Debug|x64.Build.0 = Debug|x64
+		{D4BE44F5-367A-405B-BBDF-3DE216D2D0EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{D4BE44F5-367A-405B-BBDF-3DE216D2D0EE}.Debug|x86.Build.0 = Debug|Win32
+		{D4BE44F5-367A-405B-BBDF-3DE216D2D0EE}.Release|x64.ActiveCfg = Release|x64
+		{D4BE44F5-367A-405B-BBDF-3DE216D2D0EE}.Release|x64.Build.0 = Release|x64
+		{D4BE44F5-367A-405B-BBDF-3DE216D2D0EE}.Release|x86.ActiveCfg = Release|Win32
+		{D4BE44F5-367A-405B-BBDF-3DE216D2D0EE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
