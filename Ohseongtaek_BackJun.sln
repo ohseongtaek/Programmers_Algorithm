@@ -465,6 +465,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "229_오픈채팅방", "229_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "230_후보키", "230_후보키\230_후보키.vcxproj", "{257EFC99-CBCA-4FE1-A33F-A498664D3E6C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "231_2N타일링", "231_2N타일링\231_2N타일링.vcxproj", "{B610F8DA-3ECC-4ACE-9CB1-F01A055CCEF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2321,6 +2323,14 @@ Global
 		{257EFC99-CBCA-4FE1-A33F-A498664D3E6C}.Release|x64.Build.0 = Release|x64
 		{257EFC99-CBCA-4FE1-A33F-A498664D3E6C}.Release|x86.ActiveCfg = Release|Win32
 		{257EFC99-CBCA-4FE1-A33F-A498664D3E6C}.Release|x86.Build.0 = Release|Win32
+		{B610F8DA-3ECC-4ACE-9CB1-F01A055CCEF2}.Debug|x64.ActiveCfg = Debug|x64
+		{B610F8DA-3ECC-4ACE-9CB1-F01A055CCEF2}.Debug|x64.Build.0 = Debug|x64
+		{B610F8DA-3ECC-4ACE-9CB1-F01A055CCEF2}.Debug|x86.ActiveCfg = Debug|Win32
+		{B610F8DA-3ECC-4ACE-9CB1-F01A055CCEF2}.Debug|x86.Build.0 = Debug|Win32
+		{B610F8DA-3ECC-4ACE-9CB1-F01A055CCEF2}.Release|x64.ActiveCfg = Release|x64
+		{B610F8DA-3ECC-4ACE-9CB1-F01A055CCEF2}.Release|x64.Build.0 = Release|x64
+		{B610F8DA-3ECC-4ACE-9CB1-F01A055CCEF2}.Release|x86.ActiveCfg = Release|Win32
+		{B610F8DA-3ECC-4ACE-9CB1-F01A055CCEF2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
