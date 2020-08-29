@@ -471,6 +471,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "232_3차압축", "232_3차�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "233_3차파일명정렬", "233_3차파일명정렬\233_3차파일명정렬.vcxproj", "{F809B880-B6A4-4ABF-9018-7F7B47029D3A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "234_N진수게임", "234_N진수게임\234_N진수게임.vcxproj", "{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2351,6 +2353,14 @@ Global
 		{F809B880-B6A4-4ABF-9018-7F7B47029D3A}.Release|x64.Build.0 = Release|x64
 		{F809B880-B6A4-4ABF-9018-7F7B47029D3A}.Release|x86.ActiveCfg = Release|Win32
 		{F809B880-B6A4-4ABF-9018-7F7B47029D3A}.Release|x86.Build.0 = Release|Win32
+		{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}.Debug|x64.ActiveCfg = Debug|x64
+		{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}.Debug|x64.Build.0 = Debug|x64
+		{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}.Debug|x86.Build.0 = Debug|Win32
+		{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}.Release|x64.ActiveCfg = Release|x64
+		{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}.Release|x64.Build.0 = Release|x64
+		{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}.Release|x86.ActiveCfg = Release|Win32
+		{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
