@@ -473,6 +473,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "233_3차파일명정렬", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "234_N진수게임", "234_N진수게임\234_N진수게임.vcxproj", "{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "235_N으로표현", "235_N으로표현\235_N으로표현.vcxproj", "{7A4F0603-3082-4346-9BF5-A4B7F08A99E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2361,6 +2363,14 @@ Global
 		{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}.Release|x64.Build.0 = Release|x64
 		{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}.Release|x86.ActiveCfg = Release|Win32
 		{684255D3-8F55-4D50-B7EC-5CB0EF95E6AC}.Release|x86.Build.0 = Release|Win32
+		{7A4F0603-3082-4346-9BF5-A4B7F08A99E1}.Debug|x64.ActiveCfg = Debug|x64
+		{7A4F0603-3082-4346-9BF5-A4B7F08A99E1}.Debug|x64.Build.0 = Debug|x64
+		{7A4F0603-3082-4346-9BF5-A4B7F08A99E1}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A4F0603-3082-4346-9BF5-A4B7F08A99E1}.Debug|x86.Build.0 = Debug|Win32
+		{7A4F0603-3082-4346-9BF5-A4B7F08A99E1}.Release|x64.ActiveCfg = Release|x64
+		{7A4F0603-3082-4346-9BF5-A4B7F08A99E1}.Release|x64.Build.0 = Release|x64
+		{7A4F0603-3082-4346-9BF5-A4B7F08A99E1}.Release|x86.ActiveCfg = Release|Win32
+		{7A4F0603-3082-4346-9BF5-A4B7F08A99E1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
