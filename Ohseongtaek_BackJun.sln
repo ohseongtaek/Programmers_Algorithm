@@ -485,6 +485,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "239_단속카메라", "239_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240_두개뽑아서더하기", "240_두개뽑아서더하기\240_두개뽑아서더하기.vcxproj", "{459EB910-CD83-4232-B719-42ADE89B723C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "241_삼각달팽이", "241_삼각달팽이\241_삼각달팽이.vcxproj", "{61E7DAAF-D66B-4637-B374-A2E6BD7B0BE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2421,6 +2423,14 @@ Global
 		{459EB910-CD83-4232-B719-42ADE89B723C}.Release|x64.Build.0 = Release|x64
 		{459EB910-CD83-4232-B719-42ADE89B723C}.Release|x86.ActiveCfg = Release|Win32
 		{459EB910-CD83-4232-B719-42ADE89B723C}.Release|x86.Build.0 = Release|Win32
+		{61E7DAAF-D66B-4637-B374-A2E6BD7B0BE4}.Debug|x64.ActiveCfg = Debug|x64
+		{61E7DAAF-D66B-4637-B374-A2E6BD7B0BE4}.Debug|x64.Build.0 = Debug|x64
+		{61E7DAAF-D66B-4637-B374-A2E6BD7B0BE4}.Debug|x86.ActiveCfg = Debug|Win32
+		{61E7DAAF-D66B-4637-B374-A2E6BD7B0BE4}.Debug|x86.Build.0 = Debug|Win32
+		{61E7DAAF-D66B-4637-B374-A2E6BD7B0BE4}.Release|x64.ActiveCfg = Release|x64
+		{61E7DAAF-D66B-4637-B374-A2E6BD7B0BE4}.Release|x64.Build.0 = Release|x64
+		{61E7DAAF-D66B-4637-B374-A2E6BD7B0BE4}.Release|x86.ActiveCfg = Release|Win32
+		{61E7DAAF-D66B-4637-B374-A2E6BD7B0BE4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
