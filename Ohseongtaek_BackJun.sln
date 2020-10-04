@@ -497,6 +497,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "245_디스크컨트롤러",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "246_섬연결하기", "246_섬연결하기\246_섬연결하기.vcxproj", "{E3A6367B-5356-4E54-98C8-6A1F0CCEFF41}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "247_정수삼각형", "247_정수삼각형\247_정수삼각형.vcxproj", "{250CB9E2-0C7B-430E-B385-FCF8D00B291B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2481,6 +2483,14 @@ Global
 		{E3A6367B-5356-4E54-98C8-6A1F0CCEFF41}.Release|x64.Build.0 = Release|x64
 		{E3A6367B-5356-4E54-98C8-6A1F0CCEFF41}.Release|x86.ActiveCfg = Release|Win32
 		{E3A6367B-5356-4E54-98C8-6A1F0CCEFF41}.Release|x86.Build.0 = Release|Win32
+		{250CB9E2-0C7B-430E-B385-FCF8D00B291B}.Debug|x64.ActiveCfg = Debug|x64
+		{250CB9E2-0C7B-430E-B385-FCF8D00B291B}.Debug|x64.Build.0 = Debug|x64
+		{250CB9E2-0C7B-430E-B385-FCF8D00B291B}.Debug|x86.ActiveCfg = Debug|Win32
+		{250CB9E2-0C7B-430E-B385-FCF8D00B291B}.Debug|x86.Build.0 = Debug|Win32
+		{250CB9E2-0C7B-430E-B385-FCF8D00B291B}.Release|x64.ActiveCfg = Release|x64
+		{250CB9E2-0C7B-430E-B385-FCF8D00B291B}.Release|x64.Build.0 = Release|x64
+		{250CB9E2-0C7B-430E-B385-FCF8D00B291B}.Release|x86.ActiveCfg = Release|Win32
+		{250CB9E2-0C7B-430E-B385-FCF8D00B291B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
