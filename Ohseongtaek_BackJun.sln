@@ -509,6 +509,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "251_등굣길", "251_등굣
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "252_순위", "252_순위\252_순위.vcxproj", "{297A4611-47B5-4FFA-8F88-670EA153B009}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "253_베스트앨범", "253_베스트앨범\253_베스트앨범.vcxproj", "{B1492CE9-AACA-4438-B9B0-164F4BCED604}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2541,6 +2543,14 @@ Global
 		{297A4611-47B5-4FFA-8F88-670EA153B009}.Release|x64.Build.0 = Release|x64
 		{297A4611-47B5-4FFA-8F88-670EA153B009}.Release|x86.ActiveCfg = Release|Win32
 		{297A4611-47B5-4FFA-8F88-670EA153B009}.Release|x86.Build.0 = Release|Win32
+		{B1492CE9-AACA-4438-B9B0-164F4BCED604}.Debug|x64.ActiveCfg = Debug|x64
+		{B1492CE9-AACA-4438-B9B0-164F4BCED604}.Debug|x64.Build.0 = Debug|x64
+		{B1492CE9-AACA-4438-B9B0-164F4BCED604}.Debug|x86.ActiveCfg = Debug|Win32
+		{B1492CE9-AACA-4438-B9B0-164F4BCED604}.Debug|x86.Build.0 = Debug|Win32
+		{B1492CE9-AACA-4438-B9B0-164F4BCED604}.Release|x64.ActiveCfg = Release|x64
+		{B1492CE9-AACA-4438-B9B0-164F4BCED604}.Release|x64.Build.0 = Release|x64
+		{B1492CE9-AACA-4438-B9B0-164F4BCED604}.Release|x86.ActiveCfg = Release|Win32
+		{B1492CE9-AACA-4438-B9B0-164F4BCED604}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
