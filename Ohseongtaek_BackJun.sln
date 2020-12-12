@@ -517,6 +517,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "255_가장긴팰린드롭",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "256_거스름돈", "256_거스름돈\256_거스름돈.vcxproj", "{CB0DFB42-45C7-4ADC-8DC0-16632E994C35}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "257_멀리뛰기", "257_멀리뛰기\257_멀리뛰기.vcxproj", "{E1CC23A6-ECFC-4FF8-97E9-C14E3DE1783A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2581,6 +2583,14 @@ Global
 		{CB0DFB42-45C7-4ADC-8DC0-16632E994C35}.Release|x64.Build.0 = Release|x64
 		{CB0DFB42-45C7-4ADC-8DC0-16632E994C35}.Release|x86.ActiveCfg = Release|Win32
 		{CB0DFB42-45C7-4ADC-8DC0-16632E994C35}.Release|x86.Build.0 = Release|Win32
+		{E1CC23A6-ECFC-4FF8-97E9-C14E3DE1783A}.Debug|x64.ActiveCfg = Debug|x64
+		{E1CC23A6-ECFC-4FF8-97E9-C14E3DE1783A}.Debug|x64.Build.0 = Debug|x64
+		{E1CC23A6-ECFC-4FF8-97E9-C14E3DE1783A}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1CC23A6-ECFC-4FF8-97E9-C14E3DE1783A}.Debug|x86.Build.0 = Debug|Win32
+		{E1CC23A6-ECFC-4FF8-97E9-C14E3DE1783A}.Release|x64.ActiveCfg = Release|x64
+		{E1CC23A6-ECFC-4FF8-97E9-C14E3DE1783A}.Release|x64.Build.0 = Release|x64
+		{E1CC23A6-ECFC-4FF8-97E9-C14E3DE1783A}.Release|x86.ActiveCfg = Release|Win32
+		{E1CC23A6-ECFC-4FF8-97E9-C14E3DE1783A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
