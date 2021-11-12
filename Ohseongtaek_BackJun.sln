@@ -571,6 +571,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "303_모음사전", "303_모
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "304_순위검색", "304_순위검색\304_순위검색.vcxproj", "{B4117DC3-767C-4DB1-B201-95B3797D81C0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "305_피로도", "305_피로도\305_피로도.vcxproj", "{67AD596A-CD9D-4B61-9212-76974FDBDEF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2851,6 +2853,14 @@ Global
 		{B4117DC3-767C-4DB1-B201-95B3797D81C0}.Release|x64.Build.0 = Release|x64
 		{B4117DC3-767C-4DB1-B201-95B3797D81C0}.Release|x86.ActiveCfg = Release|Win32
 		{B4117DC3-767C-4DB1-B201-95B3797D81C0}.Release|x86.Build.0 = Release|Win32
+		{67AD596A-CD9D-4B61-9212-76974FDBDEF8}.Debug|x64.ActiveCfg = Debug|x64
+		{67AD596A-CD9D-4B61-9212-76974FDBDEF8}.Debug|x64.Build.0 = Debug|x64
+		{67AD596A-CD9D-4B61-9212-76974FDBDEF8}.Debug|x86.ActiveCfg = Debug|Win32
+		{67AD596A-CD9D-4B61-9212-76974FDBDEF8}.Debug|x86.Build.0 = Debug|Win32
+		{67AD596A-CD9D-4B61-9212-76974FDBDEF8}.Release|x64.ActiveCfg = Release|x64
+		{67AD596A-CD9D-4B61-9212-76974FDBDEF8}.Release|x64.Build.0 = Release|x64
+		{67AD596A-CD9D-4B61-9212-76974FDBDEF8}.Release|x86.ActiveCfg = Release|Win32
+		{67AD596A-CD9D-4B61-9212-76974FDBDEF8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
