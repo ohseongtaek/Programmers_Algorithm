@@ -577,6 +577,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "306_2개이하로다른비�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "307_괄호회전하기", "307_괄호회전하기\307_괄호회전하기.vcxproj", "{55021A02-8585-468E-AF31-0889985A38FB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "308_게임맵최단거리", "308_게임맵최단거리\308_게임맵최단거리.vcxproj", "{475C7914-1A09-4B13-A538-E9CDCAEED333}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2881,6 +2883,14 @@ Global
 		{55021A02-8585-468E-AF31-0889985A38FB}.Release|x64.Build.0 = Release|x64
 		{55021A02-8585-468E-AF31-0889985A38FB}.Release|x86.ActiveCfg = Release|Win32
 		{55021A02-8585-468E-AF31-0889985A38FB}.Release|x86.Build.0 = Release|Win32
+		{475C7914-1A09-4B13-A538-E9CDCAEED333}.Debug|x64.ActiveCfg = Debug|x64
+		{475C7914-1A09-4B13-A538-E9CDCAEED333}.Debug|x64.Build.0 = Debug|x64
+		{475C7914-1A09-4B13-A538-E9CDCAEED333}.Debug|x86.ActiveCfg = Debug|Win32
+		{475C7914-1A09-4B13-A538-E9CDCAEED333}.Debug|x86.Build.0 = Debug|Win32
+		{475C7914-1A09-4B13-A538-E9CDCAEED333}.Release|x64.ActiveCfg = Release|x64
+		{475C7914-1A09-4B13-A538-E9CDCAEED333}.Release|x64.Build.0 = Release|x64
+		{475C7914-1A09-4B13-A538-E9CDCAEED333}.Release|x86.ActiveCfg = Release|Win32
+		{475C7914-1A09-4B13-A538-E9CDCAEED333}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
