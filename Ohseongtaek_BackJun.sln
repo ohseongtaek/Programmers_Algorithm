@@ -581,6 +581,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "308_게임맵최단거리",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "309_전력망둘로나누기", "309_전력망둘로나누기\309_전력망둘로나누기.vcxproj", "{DDA6AE85-972C-435E-A20C-10CDF738FB03}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "310_교점에별만들기", "310_교점에별만들기\310_교점에별만들기.vcxproj", "{AE30C6E4-17EB-43C3-8CC5-075D522142B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2901,6 +2903,14 @@ Global
 		{DDA6AE85-972C-435E-A20C-10CDF738FB03}.Release|x64.Build.0 = Release|x64
 		{DDA6AE85-972C-435E-A20C-10CDF738FB03}.Release|x86.ActiveCfg = Release|Win32
 		{DDA6AE85-972C-435E-A20C-10CDF738FB03}.Release|x86.Build.0 = Release|Win32
+		{AE30C6E4-17EB-43C3-8CC5-075D522142B9}.Debug|x64.ActiveCfg = Debug|x64
+		{AE30C6E4-17EB-43C3-8CC5-075D522142B9}.Debug|x64.Build.0 = Debug|x64
+		{AE30C6E4-17EB-43C3-8CC5-075D522142B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE30C6E4-17EB-43C3-8CC5-075D522142B9}.Debug|x86.Build.0 = Debug|Win32
+		{AE30C6E4-17EB-43C3-8CC5-075D522142B9}.Release|x64.ActiveCfg = Release|x64
+		{AE30C6E4-17EB-43C3-8CC5-075D522142B9}.Release|x64.Build.0 = Release|x64
+		{AE30C6E4-17EB-43C3-8CC5-075D522142B9}.Release|x86.ActiveCfg = Release|Win32
+		{AE30C6E4-17EB-43C3-8CC5-075D522142B9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
