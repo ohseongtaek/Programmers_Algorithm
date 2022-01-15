@@ -587,6 +587,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "311_N-Queen", "311_N-Queen\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "312_빛의경로사이클", "312_빛의경로사이클\312_빛의경로사이클.vcxproj", "{55DBA2F9-A1AF-4405-9BA3-F8D9C2AB27C6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "313_신고결과받기", "313_신고결과받기\313_신고결과받기.vcxproj", "{630FA606-061A-46F8-BDF4-478B33A7E71D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2931,6 +2933,14 @@ Global
 		{55DBA2F9-A1AF-4405-9BA3-F8D9C2AB27C6}.Release|x64.Build.0 = Release|x64
 		{55DBA2F9-A1AF-4405-9BA3-F8D9C2AB27C6}.Release|x86.ActiveCfg = Release|Win32
 		{55DBA2F9-A1AF-4405-9BA3-F8D9C2AB27C6}.Release|x86.Build.0 = Release|Win32
+		{630FA606-061A-46F8-BDF4-478B33A7E71D}.Debug|x64.ActiveCfg = Debug|x64
+		{630FA606-061A-46F8-BDF4-478B33A7E71D}.Debug|x64.Build.0 = Debug|x64
+		{630FA606-061A-46F8-BDF4-478B33A7E71D}.Debug|x86.ActiveCfg = Debug|Win32
+		{630FA606-061A-46F8-BDF4-478B33A7E71D}.Debug|x86.Build.0 = Debug|Win32
+		{630FA606-061A-46F8-BDF4-478B33A7E71D}.Release|x64.ActiveCfg = Release|x64
+		{630FA606-061A-46F8-BDF4-478B33A7E71D}.Release|x64.Build.0 = Release|x64
+		{630FA606-061A-46F8-BDF4-478B33A7E71D}.Release|x86.ActiveCfg = Release|Win32
+		{630FA606-061A-46F8-BDF4-478B33A7E71D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
