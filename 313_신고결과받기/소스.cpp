@@ -3,72 +3,87 @@
 #include <algorithm>
 #include <map>
 #include <iostream>
+#include <set>
 
 using namespace std;
 
 vector<int> solution(vector<string> id_list, vector<string> report, int k) {
     vector<int> answer;
-    vector<string> count;
-    map<string, int> PushAnswer;
-    map<string, int> warning;
-    map<string, int>::iterator iteration;
-   
-    // 중복삭제 
-    report.erase(unique(report.begin(), report.end()), report.end());
-
-    // 신고 수 카운트
+    map<string, set<string>> ReporterList;
+    map<string, int> ReportedList;
+    
     for (int i = 0; i < report.size(); i++)
     {
-        int iter = report[i].find(" ");
-        int length = report[i].size();
-        //string src = report[i].substr(0,iter);
-        string dst = report[i].substr(iter, length - iter);
+        string str_reporter = "";
+        string str_reported = "";
+        string str_reporter_reported = report[i];
 
-        warning[dst]++;
-    }
+        // 문자열 파싱 
+        int nEmpty = str_reporter_reported.find(' ');
 
-    // 신고 수 넘는 이름 확인 및 벡터에 삽입 
-    for (iteration = warning.begin(); iteration != warning.end(); iteration++)
-    {
-        if (iteration->second >= k)
+        // 신고자 
+        str_reporter = str_reporter_reported.substr(0, nEmpty);
+
+        // 신고 당한사람 
+        str_reported = str_reporter_reported.substr(nEmpty);
+
+        // 신고자 한 사람이 신고한 사람이 여러개인 경우가 많음 
+        // 따라서 신고자가 신고한 이력이 없다면 넣어줌
+        if (ReporterList[str_reporter].find(str_reported) == ReporterList[str_reporter].end())
         {
-            count.push_back(iteration->first);
+            ReportedList[str_reported]++;
+            ReporterList[str_reporter].insert(str_reported);
         }
     }
+    
+#ifdef _DEBUG
+    map<string, set<string>>::iterator iter1;
+    map<string, int>::iterator iter2;
+    set<string>::iterator iter3;
 
-    // 벡터에 삽입한 것에 대한 신고자 이름 추출
-    for (int i = 0; i < report.size(); i++)
+    for (iter1 = ReporterList.begin(); iter1 != ReporterList.end(); iter1++)
     {
-        int iter = report[i].find(" ");
-        int length = report[i].size();
-        string src = report[i].substr(0, iter);
-        string dst = report[i].substr(iter, length - iter);
-        for (int i = 0; i < count.size(); i++)
+        cout << iter1->first << " | ";
+        for (iter3 = iter1->second.begin(); iter3 != iter1->second.end(); iter3++)
         {
-            if(count[i] == dst)
-            {
-                PushAnswer[src]++;
-            }
+            cout << *iter3 << " ";
         }
+        cout << endl;
     }
+    
+    cout << "========================================================" << endl;
+
+    for (iter2 = ReportedList.begin(); iter2 != ReportedList.end(); iter2++)
+    {
+        cout << iter2->first << " " << iter2->second << endl;
+    }
+#endif 
 
     for (int i = 0; i < id_list.size(); i++)
     {
-        bool flag = false;
-        for (iteration = PushAnswer.begin(); iteration != PushAnswer.end(); iteration++)
+        int nWarning = 0;
+        string str_id_list = id_list[i];
+
+        map<string, set<string>>::iterator map_iter;
+        set<string>::iterator set_iter;
+
+        for (map_iter = ReporterList.begin(); map_iter != ReporterList.end(); map_iter++)
         {
-            if (iteration->first == id_list[i])
+            if (map_iter->first == str_id_list)
             {
-                flag = true;
-                answer.push_back(iteration->second);
-                break;
+                for (set_iter = map_iter->second.begin(); set_iter != map_iter->second.end(); set_iter++)
+                {
+                    if (ReportedList[*set_iter] >= k)
+                    {
+                        nWarning++;
+                    }
+                }
             }
         }
-        if (flag == false)
-        {
-            answer.push_back(0);
-        }
+
+        answer.push_back(nWarning);
     }
+
     return answer;
 }
 
