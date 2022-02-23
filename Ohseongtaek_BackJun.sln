@@ -589,6 +589,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "312_빛의경로사이클",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "313_신고결과받기", "313_신고결과받기\313_신고결과받기.vcxproj", "{630FA606-061A-46F8-BDF4-478B33A7E71D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "314_K진수에서소수개수구하기", "314_K진수에서소수개수구하기\314_K진수에서소수개수구하기.vcxproj", "{9E472CCA-DF4D-49AF-9F31-60081090199E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2941,6 +2943,14 @@ Global
 		{630FA606-061A-46F8-BDF4-478B33A7E71D}.Release|x64.Build.0 = Release|x64
 		{630FA606-061A-46F8-BDF4-478B33A7E71D}.Release|x86.ActiveCfg = Release|Win32
 		{630FA606-061A-46F8-BDF4-478B33A7E71D}.Release|x86.Build.0 = Release|Win32
+		{9E472CCA-DF4D-49AF-9F31-60081090199E}.Debug|x64.ActiveCfg = Debug|x64
+		{9E472CCA-DF4D-49AF-9F31-60081090199E}.Debug|x64.Build.0 = Debug|x64
+		{9E472CCA-DF4D-49AF-9F31-60081090199E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E472CCA-DF4D-49AF-9F31-60081090199E}.Debug|x86.Build.0 = Debug|Win32
+		{9E472CCA-DF4D-49AF-9F31-60081090199E}.Release|x64.ActiveCfg = Release|x64
+		{9E472CCA-DF4D-49AF-9F31-60081090199E}.Release|x64.Build.0 = Release|x64
+		{9E472CCA-DF4D-49AF-9F31-60081090199E}.Release|x86.ActiveCfg = Release|Win32
+		{9E472CCA-DF4D-49AF-9F31-60081090199E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
