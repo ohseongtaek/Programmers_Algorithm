@@ -591,6 +591,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "313_신고결과받기", "3
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "314_K진수에서소수개수구하기", "314_K진수에서소수개수구하기\314_K진수에서소수개수구하기.vcxproj", "{9E472CCA-DF4D-49AF-9F31-60081090199E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "315_주차시간계산", "315_주차시간계산\315_주차시간계산.vcxproj", "{8AF92EE5-6099-4458-8D71-26C485DA1396}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2951,6 +2953,14 @@ Global
 		{9E472CCA-DF4D-49AF-9F31-60081090199E}.Release|x64.Build.0 = Release|x64
 		{9E472CCA-DF4D-49AF-9F31-60081090199E}.Release|x86.ActiveCfg = Release|Win32
 		{9E472CCA-DF4D-49AF-9F31-60081090199E}.Release|x86.Build.0 = Release|Win32
+		{8AF92EE5-6099-4458-8D71-26C485DA1396}.Debug|x64.ActiveCfg = Debug|x64
+		{8AF92EE5-6099-4458-8D71-26C485DA1396}.Debug|x64.Build.0 = Debug|x64
+		{8AF92EE5-6099-4458-8D71-26C485DA1396}.Debug|x86.ActiveCfg = Debug|Win32
+		{8AF92EE5-6099-4458-8D71-26C485DA1396}.Debug|x86.Build.0 = Debug|Win32
+		{8AF92EE5-6099-4458-8D71-26C485DA1396}.Release|x64.ActiveCfg = Release|x64
+		{8AF92EE5-6099-4458-8D71-26C485DA1396}.Release|x64.Build.0 = Release|x64
+		{8AF92EE5-6099-4458-8D71-26C485DA1396}.Release|x86.ActiveCfg = Release|Win32
+		{8AF92EE5-6099-4458-8D71-26C485DA1396}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
