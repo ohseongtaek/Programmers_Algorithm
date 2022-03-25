@@ -605,6 +605,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "320_양궁대회", "320_양
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "321_셔틀버스", "321_셔틀버스\321_셔틀버스.vcxproj", "{AD2EAAFF-AA9E-4CF4-BDC9-3B30165B3B46}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "322_기둥과보설치", "322_기둥과보설치\322_기둥과보설치.vcxproj", "{A0A24282-2030-4337-BF01-6CE71251AB63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3021,6 +3023,14 @@ Global
 		{AD2EAAFF-AA9E-4CF4-BDC9-3B30165B3B46}.Release|x64.Build.0 = Release|x64
 		{AD2EAAFF-AA9E-4CF4-BDC9-3B30165B3B46}.Release|x86.ActiveCfg = Release|Win32
 		{AD2EAAFF-AA9E-4CF4-BDC9-3B30165B3B46}.Release|x86.Build.0 = Release|Win32
+		{A0A24282-2030-4337-BF01-6CE71251AB63}.Debug|x64.ActiveCfg = Debug|x64
+		{A0A24282-2030-4337-BF01-6CE71251AB63}.Debug|x64.Build.0 = Debug|x64
+		{A0A24282-2030-4337-BF01-6CE71251AB63}.Debug|x86.ActiveCfg = Debug|Win32
+		{A0A24282-2030-4337-BF01-6CE71251AB63}.Debug|x86.Build.0 = Debug|Win32
+		{A0A24282-2030-4337-BF01-6CE71251AB63}.Release|x64.ActiveCfg = Release|x64
+		{A0A24282-2030-4337-BF01-6CE71251AB63}.Release|x64.Build.0 = Release|x64
+		{A0A24282-2030-4337-BF01-6CE71251AB63}.Release|x86.ActiveCfg = Release|Win32
+		{A0A24282-2030-4337-BF01-6CE71251AB63}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
