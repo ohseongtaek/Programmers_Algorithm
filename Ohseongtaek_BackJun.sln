@@ -617,6 +617,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "326_표편집", "326_표편
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "327_광고삽입", "327_광고삽입\327_광고삽입.vcxproj", "{7A461EB4-2867-462E-9CAC-1246647FEC03}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "328_금과은운반하기", "328_금과은운반하기\328_금과은운반하기.vcxproj", "{35A78CC8-81BF-44DC-BCB0-03AEBD49C675}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3081,6 +3083,14 @@ Global
 		{7A461EB4-2867-462E-9CAC-1246647FEC03}.Release|x64.Build.0 = Release|x64
 		{7A461EB4-2867-462E-9CAC-1246647FEC03}.Release|x86.ActiveCfg = Release|Win32
 		{7A461EB4-2867-462E-9CAC-1246647FEC03}.Release|x86.Build.0 = Release|Win32
+		{35A78CC8-81BF-44DC-BCB0-03AEBD49C675}.Debug|x64.ActiveCfg = Debug|x64
+		{35A78CC8-81BF-44DC-BCB0-03AEBD49C675}.Debug|x64.Build.0 = Debug|x64
+		{35A78CC8-81BF-44DC-BCB0-03AEBD49C675}.Debug|x86.ActiveCfg = Debug|Win32
+		{35A78CC8-81BF-44DC-BCB0-03AEBD49C675}.Debug|x86.Build.0 = Debug|Win32
+		{35A78CC8-81BF-44DC-BCB0-03AEBD49C675}.Release|x64.ActiveCfg = Release|x64
+		{35A78CC8-81BF-44DC-BCB0-03AEBD49C675}.Release|x64.Build.0 = Release|x64
+		{35A78CC8-81BF-44DC-BCB0-03AEBD49C675}.Release|x86.ActiveCfg = Release|Win32
+		{35A78CC8-81BF-44DC-BCB0-03AEBD49C675}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
