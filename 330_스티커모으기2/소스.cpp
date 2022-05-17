@@ -38,6 +38,12 @@ int solution(vector<int> sticker)
     int arrDP[100010] = { 0, };
     bool bFirstSelect = false;
 
+    // 33번 TC
+    if (sticker.size() == 1)
+    {
+        return sticker[0];
+    }
+
     // 최대값 구하기 
     // DP 점화식 구하기 DP[i] = max(DP[i - 1], DP[i - 2] + sticker[i]);
     // DP => 첫번째 스티커를 사용했을때와 안했을때로 나누기 
