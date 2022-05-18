@@ -623,6 +623,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "329_공이동시뮬레이�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "330_스티커모으기2", "330_스티커모으기2\330_스티커모으기2.vcxproj", "{6D803D37-A4A3-4B06-A9FC-46CC3ED1B1FE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "331_합승택시요금", "331_합승택시요금\331_합승택시요금.vcxproj", "{222D1F6F-DFBC-40F9-B097-5CF2F19BE78F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3111,6 +3113,14 @@ Global
 		{6D803D37-A4A3-4B06-A9FC-46CC3ED1B1FE}.Release|x64.Build.0 = Release|x64
 		{6D803D37-A4A3-4B06-A9FC-46CC3ED1B1FE}.Release|x86.ActiveCfg = Release|Win32
 		{6D803D37-A4A3-4B06-A9FC-46CC3ED1B1FE}.Release|x86.Build.0 = Release|Win32
+		{222D1F6F-DFBC-40F9-B097-5CF2F19BE78F}.Debug|x64.ActiveCfg = Debug|x64
+		{222D1F6F-DFBC-40F9-B097-5CF2F19BE78F}.Debug|x64.Build.0 = Debug|x64
+		{222D1F6F-DFBC-40F9-B097-5CF2F19BE78F}.Debug|x86.ActiveCfg = Debug|Win32
+		{222D1F6F-DFBC-40F9-B097-5CF2F19BE78F}.Debug|x86.Build.0 = Debug|Win32
+		{222D1F6F-DFBC-40F9-B097-5CF2F19BE78F}.Release|x64.ActiveCfg = Release|x64
+		{222D1F6F-DFBC-40F9-B097-5CF2F19BE78F}.Release|x64.Build.0 = Release|x64
+		{222D1F6F-DFBC-40F9-B097-5CF2F19BE78F}.Release|x86.ActiveCfg = Release|Win32
+		{222D1F6F-DFBC-40F9-B097-5CF2F19BE78F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
