@@ -1,0 +1,5 @@
+﻿  소스.cpp
+D:\Git\Programmers_Algorithm\182_아이템줍기\소스.cpp(36,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Git\Programmers_Algorithm\182_아이템줍기\소스.cpp(53,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Git\Programmers_Algorithm\182_아이템줍기\소스.cpp(121,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  182_아이템줍기.vcxproj -> D:\Git\Programmers_Algorithm\Debug\182_아이템줍기.exe
