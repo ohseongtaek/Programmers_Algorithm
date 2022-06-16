@@ -1,0 +1,10 @@
+﻿  소스.cpp
+D:\Git\Programmers_Algorithm\184_GPS\소스.cpp(19,50): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\Git\Programmers_Algorithm\184_GPS\소스.cpp(22,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Git\Programmers_Algorithm\184_GPS\소스.cpp(42,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Git\Programmers_Algorithm\184_GPS\소스.cpp(77,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  184_GPS.vcxproj -> D:\Git\Programmers_Algorithm\Debug\184_GPS.exe

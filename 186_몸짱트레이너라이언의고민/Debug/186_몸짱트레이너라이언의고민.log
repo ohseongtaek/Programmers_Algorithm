@@ -1,0 +1,4 @@
+﻿  소스.cpp
+D:\Git\Programmers_Algorithm\186_몸짱트레이너라이언의고민\소스.cpp(27,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Git\Programmers_Algorithm\186_몸짱트레이너라이언의고민\소스.cpp(127,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  186_몸짱트레이너라이언의고민.vcxproj -> D:\Git\Programmers_Algorithm\Debug\186_몸짱트레이너라이언의고민.exe

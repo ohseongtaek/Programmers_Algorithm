@@ -1,0 +1,4 @@
+﻿  소스.cpp
+D:\Git\Programmers_Algorithm\185_사라지는발판\소스.cpp(17,32): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+D:\Git\Programmers_Algorithm\185_사라지는발판\소스.cpp(93,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  185_사라지는발판.vcxproj -> D:\Git\Programmers_Algorithm\Debug\185_사라지는발판.exe

@@ -1,0 +1,4 @@
+﻿  소스.cpp
+D:\Git\Programmers_Algorithm\183_리틀프렌즈사천성\소스.cpp(119,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Git\Programmers_Algorithm\183_리틀프렌즈사천성\소스.cpp(164,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  183_리틀프렌즈사천성.vcxproj -> D:\Git\Programmers_Algorithm\Debug\183_리틀프렌즈사천성.exe
