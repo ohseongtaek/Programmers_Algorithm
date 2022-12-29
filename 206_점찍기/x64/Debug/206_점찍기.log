@@ -1,0 +1,4 @@
+﻿  소스.cpp
+d:\git\programmers_algorithm\206_점찍기\소스.cpp(43): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\git\programmers_algorithm\206_점찍기\소스.cpp(58): warning C4244: '+=': 'float'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  206_점찍기.vcxproj -> D:\Git\Programmers_Algorithm\x64\Debug\206_점찍기.exe
