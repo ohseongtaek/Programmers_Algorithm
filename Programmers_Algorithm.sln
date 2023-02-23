@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.33026.149
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32930.78
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001_크레인인형뽑기", "001_크레인인형뽑기\001_크레인인형뽑기.vcxproj", "{3E70026C-8DEC-404B-AFC9-B36F3D45AFDA}"
 EndProject
@@ -426,6 +426,12 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "211_크기가작은문자열", "211_크기가작은문자열\211_크기가작은문자열.vcxproj", "{F077B79B-4E2A-4E1D-B000-149271A99161}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "212_부대복귀", "212_부대복귀\212_부대복귀.vcxproj", "{5BA53AA1-B149-4CA1-814A-D449415DCF0D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "213_둘만의암호", "213_둘만의암호\213_둘만의암호.vcxproj", "{D927BAC4-3466-49AA-924D-3D3561F6E7E7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "214_카드뭉치", "214_카드뭉치\214_카드뭉치.vcxproj", "{8B4EDC51-F72E-4FAD-A54A-94C27ECFABD6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "215_개인정보수집유효기간", "215_개인정보수집유효기간\215_개인정보수집유효기간.vcxproj", "{3186D0E7-7E19-4153-82E8-8EFEF37FD2E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -2131,6 +2137,30 @@ Global
 		{5BA53AA1-B149-4CA1-814A-D449415DCF0D}.Release|x64.Build.0 = Release|x64
 		{5BA53AA1-B149-4CA1-814A-D449415DCF0D}.Release|x86.ActiveCfg = Release|Win32
 		{5BA53AA1-B149-4CA1-814A-D449415DCF0D}.Release|x86.Build.0 = Release|Win32
+		{D927BAC4-3466-49AA-924D-3D3561F6E7E7}.Debug|x64.ActiveCfg = Debug|x64
+		{D927BAC4-3466-49AA-924D-3D3561F6E7E7}.Debug|x64.Build.0 = Debug|x64
+		{D927BAC4-3466-49AA-924D-3D3561F6E7E7}.Debug|x86.ActiveCfg = Debug|Win32
+		{D927BAC4-3466-49AA-924D-3D3561F6E7E7}.Debug|x86.Build.0 = Debug|Win32
+		{D927BAC4-3466-49AA-924D-3D3561F6E7E7}.Release|x64.ActiveCfg = Release|x64
+		{D927BAC4-3466-49AA-924D-3D3561F6E7E7}.Release|x64.Build.0 = Release|x64
+		{D927BAC4-3466-49AA-924D-3D3561F6E7E7}.Release|x86.ActiveCfg = Release|Win32
+		{D927BAC4-3466-49AA-924D-3D3561F6E7E7}.Release|x86.Build.0 = Release|Win32
+		{8B4EDC51-F72E-4FAD-A54A-94C27ECFABD6}.Debug|x64.ActiveCfg = Debug|x64
+		{8B4EDC51-F72E-4FAD-A54A-94C27ECFABD6}.Debug|x64.Build.0 = Debug|x64
+		{8B4EDC51-F72E-4FAD-A54A-94C27ECFABD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{8B4EDC51-F72E-4FAD-A54A-94C27ECFABD6}.Debug|x86.Build.0 = Debug|Win32
+		{8B4EDC51-F72E-4FAD-A54A-94C27ECFABD6}.Release|x64.ActiveCfg = Release|x64
+		{8B4EDC51-F72E-4FAD-A54A-94C27ECFABD6}.Release|x64.Build.0 = Release|x64
+		{8B4EDC51-F72E-4FAD-A54A-94C27ECFABD6}.Release|x86.ActiveCfg = Release|Win32
+		{8B4EDC51-F72E-4FAD-A54A-94C27ECFABD6}.Release|x86.Build.0 = Release|Win32
+		{3186D0E7-7E19-4153-82E8-8EFEF37FD2E5}.Debug|x64.ActiveCfg = Debug|x64
+		{3186D0E7-7E19-4153-82E8-8EFEF37FD2E5}.Debug|x64.Build.0 = Debug|x64
+		{3186D0E7-7E19-4153-82E8-8EFEF37FD2E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{3186D0E7-7E19-4153-82E8-8EFEF37FD2E5}.Debug|x86.Build.0 = Debug|Win32
+		{3186D0E7-7E19-4153-82E8-8EFEF37FD2E5}.Release|x64.ActiveCfg = Release|x64
+		{3186D0E7-7E19-4153-82E8-8EFEF37FD2E5}.Release|x64.Build.0 = Release|x64
+		{3186D0E7-7E19-4153-82E8-8EFEF37FD2E5}.Release|x86.ActiveCfg = Release|Win32
+		{3186D0E7-7E19-4153-82E8-8EFEF37FD2E5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
