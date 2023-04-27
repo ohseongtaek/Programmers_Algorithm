@@ -1,0 +1,5 @@
+﻿  소스.cpp
+D:\Git\Programmers_Algorithm\247_표현가능한이진트리\소스.cpp(27,30): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Git\Programmers_Algorithm\247_표현가능한이진트리\소스.cpp(71,16): error C2374: 'strBinary': 재정의. 여러 번 초기화했습니다.
+D:\Git\Programmers_Algorithm\247_표현가능한이진트리\소스.cpp(67): message : 'strBinary' 선언을 참조하십시오.
+D:\Git\Programmers_Algorithm\247_표현가능한이진트리\소스.cpp(74,44): error C2088: '+': class에 맞지 않습니다.
