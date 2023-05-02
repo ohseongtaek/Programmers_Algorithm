@@ -1,0 +1,3 @@
+﻿  소스.cpp
+D:\Git\Programmers_Algorithm\343_주사위게임3\소스.cpp(76,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  343_주사위게임3.vcxproj -> D:\Git\Programmers_Algorithm\x64\Debug\343_주사위게임3.exe

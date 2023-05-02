@@ -1,0 +1,7 @@
+﻿  소스.cpp
+D:\Git\Programmers_Algorithm\365_2의영역\소스.cpp(28,29): warning C4805: '==': 연산에 '_Ty2' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+          with
+          [
+              _Ty2=int
+          ]
+  365_2의영역.vcxproj -> D:\Git\Programmers_Algorithm\x64\Debug\365_2의영역.exe
