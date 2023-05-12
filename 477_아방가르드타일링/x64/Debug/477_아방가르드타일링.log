@@ -1,0 +1,8 @@
+﻿  소스.cpp
+D:\Git\Programmers_Algorithm\477_아방가르드타일링\소스.cpp(35,18): warning C4244: 'return': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+D:\Git\Programmers_Algorithm\477_아방가르드타일링\소스.cpp(10,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  477_아방가르드타일링.vcxproj -> D:\Git\Programmers_Algorithm\x64\Debug\477_아방가르드타일링.exe
