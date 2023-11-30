@@ -977,6 +977,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "487_PCCE기출문제_7번_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "488_PCCE기출문제_8번_창고정리", "488_PCCE기출문제_8번_창고정리\488_PCCE기출문제_8번_창고정리.vcxproj", "{AF29CDD1-A5AD-4195-9CB4-6498A69F85E7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "489_PCCE기출문제_9번_이웃한칸", "489_PCCE기출문제_9번_이웃한칸\489_PCCE기출문제_9번_이웃한칸.vcxproj", "{5AB7CD3D-850D-4E59-A96C-007CACA89C3F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "490_PCCE기출문제_10번_데이터분석", "490_PCCE기출문제_10번_데이터분석\490_PCCE기출문제_10번_데이터분석.vcxproj", "{E172DD38-B4DD-42AF-A27E-3F17186D365F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "491_PCCP기출문제_1번", "491_PCCP기출문제_1번\491_PCCP기출문제_1번.vcxproj", "{848485F3-C23B-4F67-AAAB-66E4601EAEBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -4881,6 +4887,30 @@ Global
 		{AF29CDD1-A5AD-4195-9CB4-6498A69F85E7}.Release|x64.Build.0 = Release|x64
 		{AF29CDD1-A5AD-4195-9CB4-6498A69F85E7}.Release|x86.ActiveCfg = Release|Win32
 		{AF29CDD1-A5AD-4195-9CB4-6498A69F85E7}.Release|x86.Build.0 = Release|Win32
+		{5AB7CD3D-850D-4E59-A96C-007CACA89C3F}.Debug|x64.ActiveCfg = Debug|x64
+		{5AB7CD3D-850D-4E59-A96C-007CACA89C3F}.Debug|x64.Build.0 = Debug|x64
+		{5AB7CD3D-850D-4E59-A96C-007CACA89C3F}.Debug|x86.ActiveCfg = Debug|Win32
+		{5AB7CD3D-850D-4E59-A96C-007CACA89C3F}.Debug|x86.Build.0 = Debug|Win32
+		{5AB7CD3D-850D-4E59-A96C-007CACA89C3F}.Release|x64.ActiveCfg = Release|x64
+		{5AB7CD3D-850D-4E59-A96C-007CACA89C3F}.Release|x64.Build.0 = Release|x64
+		{5AB7CD3D-850D-4E59-A96C-007CACA89C3F}.Release|x86.ActiveCfg = Release|Win32
+		{5AB7CD3D-850D-4E59-A96C-007CACA89C3F}.Release|x86.Build.0 = Release|Win32
+		{E172DD38-B4DD-42AF-A27E-3F17186D365F}.Debug|x64.ActiveCfg = Debug|x64
+		{E172DD38-B4DD-42AF-A27E-3F17186D365F}.Debug|x64.Build.0 = Debug|x64
+		{E172DD38-B4DD-42AF-A27E-3F17186D365F}.Debug|x86.ActiveCfg = Debug|Win32
+		{E172DD38-B4DD-42AF-A27E-3F17186D365F}.Debug|x86.Build.0 = Debug|Win32
+		{E172DD38-B4DD-42AF-A27E-3F17186D365F}.Release|x64.ActiveCfg = Release|x64
+		{E172DD38-B4DD-42AF-A27E-3F17186D365F}.Release|x64.Build.0 = Release|x64
+		{E172DD38-B4DD-42AF-A27E-3F17186D365F}.Release|x86.ActiveCfg = Release|Win32
+		{E172DD38-B4DD-42AF-A27E-3F17186D365F}.Release|x86.Build.0 = Release|Win32
+		{848485F3-C23B-4F67-AAAB-66E4601EAEBB}.Debug|x64.ActiveCfg = Debug|x64
+		{848485F3-C23B-4F67-AAAB-66E4601EAEBB}.Debug|x64.Build.0 = Debug|x64
+		{848485F3-C23B-4F67-AAAB-66E4601EAEBB}.Debug|x86.ActiveCfg = Debug|Win32
+		{848485F3-C23B-4F67-AAAB-66E4601EAEBB}.Debug|x86.Build.0 = Debug|Win32
+		{848485F3-C23B-4F67-AAAB-66E4601EAEBB}.Release|x64.ActiveCfg = Release|x64
+		{848485F3-C23B-4F67-AAAB-66E4601EAEBB}.Release|x64.Build.0 = Release|x64
+		{848485F3-C23B-4F67-AAAB-66E4601EAEBB}.Release|x86.ActiveCfg = Release|Win32
+		{848485F3-C23B-4F67-AAAB-66E4601EAEBB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
