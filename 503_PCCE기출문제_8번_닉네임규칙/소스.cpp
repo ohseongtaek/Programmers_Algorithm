@@ -22,7 +22,7 @@ string solution(string nickname) {
             answer += nickname[i];
         }
     }
-    if (answer.size() < 3) {
+    while(answer.size() < 4) {
         answer += "o";
     }
     if (answer.size() > 8) {
